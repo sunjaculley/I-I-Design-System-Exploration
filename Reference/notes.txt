@@ -1,0 +1,19 @@
+additional changes:
+[Under WHAT IT MEANS:] compliance requirements, and supply chains
+ 
+[Under A cultural mismatch: More commas] Complexity multiplies when serving several governments at once: US, NATO allies, and EU buyers each bring their own export, data, security, and sourcing rules, and they can overlap or conflict.
+ 
+[Under A cultural mismatch:] The font for the first sentence could be smaller, it's giving more importance than necessary. 
+ 
+[Under A cultural mismatch:] Remove the blue acronyms
+ 
+[Under A cultural mismatch:] Add periods after all five points for consistency
+ 
+[Under A cultural mismatch:]
+2, no comma between technical data and export rules
+4, no comma between information and must be certified
+5, add comma data rights, and depot rules
+ 
+[Under AUTO'S MULTIPLE PATHS TO PLAY IN DEFENSE] I think I gave you an alternative to that lengthy subhead but I can't find it. If you don't have it, you can use: Auto OEMs and Tier 1s can bring critical scale where it is needed most.
+ 
+[Under Three major plays · The size of the prize] Remove bullets under charts
